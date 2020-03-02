@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jhuan\Desktop\CS3113-master\CS3113-P2\SDLProject\main.cpp(209,99): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\jhuan\Desktop\CS3113-master\CS3113-P2\SDLProject\main.cpp(216,95): warning C4804:  '<=': unsafe use of type 'bool' in operation
+  SDLProject.vcxproj -> C:\Users\jhuan\Desktop\CS3113-master\CS3113-P2\SDLProject\Debug\SDLProject.exe
